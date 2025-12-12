@@ -1,0 +1,4 @@
+# This file configures the build and deployment settings for Netlify.
+# The Essential Next.js Build Plugin will automatically handle most of the configuration.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
